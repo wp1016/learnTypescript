@@ -1,0 +1,19 @@
+{
+  "name": "learntypescript",
+  "version": "1.0.0",
+  "description": "learnTypescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wp1016/learnTypescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wp1016/learnTypescript/issues"
+  },
+  "homepage": "https://github.com/wp1016/learnTypescript#readme"
+}
